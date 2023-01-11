@@ -1,0 +1,19 @@
+DevOpsSchool
+https://www.devopsschool.com/certificates/
+
+
+Tutorials
+- https://www.devopsschool.com/blog/?s=terraform
+
+Slides 
+- https://www.devopsschool.com/slides/terraform/index.html
+
+Notes
+- https://github.com/devopsschool-training-notes/terraform-ExMobil-jan-2023
+
+How to contact trainer?
+- https://www.rajeshkumar.xyz/
+devops@rajeshkumar.xyz
+
+Assignment
+https://www.debug.school/rajesh_kumar/terraform-projects-and-assignment-58hl
